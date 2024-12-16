@@ -1,8 +1,8 @@
-# Metallic Highway CTF (MAP05 for Frenzy CTF) [1 map, Hexen format, DOOM 2]
+# Metallic Highway CTF (MAP04 for Frenzy CTF) [1 map, Hexen format, DOOM 2]
 
 # STATUS: ✅RELEASED
 
-### Download - [Latest Release](https://github.com/dron12261games/WAD-DOOM-PSX-Damnation-of-Eternity-EMC2024/releases/download/v1.2/PSXDAMN.v1.2.zip)
+### Download - [Latest Release](https://github.com/dron12261games/WAD-Metallic-Highway/releases/download/beta4/Metallic.Highway.beta4.wad)
 
 CTF map I created in collaboration with **EXWiz** in about one day for Frenzy CTF.
 
